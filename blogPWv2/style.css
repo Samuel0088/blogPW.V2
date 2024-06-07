@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: greenyellow;
+    color: #1867a9;
+    font-size: 35px;
+    font-weight: 800;
+    text-align: center;
+} 
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: justify;
+    background-color: #dedee9;
+}
+
+#links {
+    background-color: green;
+    font-size: 27px;
+    font-weight: 800;
+    text-align: center;
+    word-spacing: 40px;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.link:hover {
+    background-color: #1867a9;
+    color: white;
+}
+
+
+.espacamento {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+#cor {
+    word-spacing: 10px;
+}
